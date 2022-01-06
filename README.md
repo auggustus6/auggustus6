@@ -28,4 +28,4 @@ Developer React, Next.js, and Typescript, enthusiast of the best web and mobile 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=tru&theme=dracula" alt="Status" />
+<img src="https://github-readme-stats.vercel.app/api?username=auggustus6&show_icons=tru&theme=dracula" alt="Status" />
