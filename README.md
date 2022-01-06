@@ -7,7 +7,7 @@
 Developer React, Next.js, and Typescript, enthusiast of the best web and mobile development technologies. <br /> Self-taught developer and always trying to improve my knowledge.
 
 - ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
-- 📚 Currently learning: **_GraphQL, Design Patterns_**
+- 📚 Currently learning: **_GraphQL, Design Patterns_, Infra**
 - 📫 How to reach me: auggustus6@gmail.com
 
 ---
