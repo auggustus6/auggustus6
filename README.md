@@ -2,8 +2,7 @@
 
 **Software Developer** 
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
-[![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/r3nanp_)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-sartore-salles-ab3920180/)
 
 Developer React, Next.js, and Typescript, enthusiast of the best web and mobile development technologies. <br /> Self-taught developer and always trying to improve my knowledge.
 
